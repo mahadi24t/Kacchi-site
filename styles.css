@@ -1,0 +1,30 @@
+h1{
+    color: brown;
+}
+p{
+    color: blueviolet;
+}
+body{
+    background-color: azure;
+}
+img{
+    width: 180px; 
+    padding:0px 20px;
+    margin: 5px;
+   
+}
+.w{
+    color:darkred;
+}
+
+.e{
+    color: darkgoldenrod;
+}
+
+#coffee{
+    color: darkred;
+}
+
+#coffeeid{
+    color: darkslategray;
+}
